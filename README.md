@@ -6,4 +6,7 @@ servir para estudos sobre alguns temas como:
 - hooks react;
 - arquitetura do próprio react;
 - CRUD; 
-- TypeScript.
+- JavaScript / TypeScript;
+- Banco de Dados
+- Java
+
